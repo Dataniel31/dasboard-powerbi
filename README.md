@@ -24,3 +24,11 @@ Este dashboard tiene como objetivo proporcionar una visión clara y detallada de
 - **Ingreso:**
   ```DAX
   Ingreso = SUMX(Fact_Ingresos, Fact_Ingresos[Cantidades] * Fact_Ingresos[Venta Unit])
+
+  Costo = SUM(Fact_Costos[Total])
+
+  Utilidad Costo Ingreso = [Ingreso] - [Costo]
+
+  Gasto = SUM(Fact_Gastos[Total])
+
+  Utilidad = [Ingreso] - [Costo] - [Gasto]
