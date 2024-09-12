@@ -32,3 +32,23 @@ Este dashboard tiene como objetivo proporcionar una visión clara y detallada de
   Gasto = SUM(Fact_Gastos[Total])
 
   Utilidad = [Ingreso] - [Costo] - [Gasto]
+
+
+### 4. Visualizaciones Utilizadas:
+- **Tarjetas**: Para mostrar las métricas clave como ingreso total, costo total, gasto total y utilidad total.
+- **Gráficos de Líneas**: Utilizados para mostrar la evolución de los ingresos, costos y utilidad a lo largo del tiempo, permitiendo identificar tendencias y patrones.
+- **Gráfico Circular**: Para visualizar la proporción entre ingresos, costos y gastos en términos globales.
+- **Tabla Detallada**: Muestra el rendimiento financiero de cada producto individual, lo que permite identificar rápidamente los productos más y menos rentables.
+
+### 5. Instrucciones para Usar el Dashboard:
+- **Filtrar por Producto**: Usa el filtro de producto en la esquina superior derecha para analizar los ingresos, costos y utilidades de un producto en particular.
+- **Analizar Tendencias**: Explora los gráficos de líneas para observar cómo se han comportado los ingresos y costos a lo largo del tiempo. Los gráficos te permitirán ver patrones estacionales o identificar períodos de alto/bajo rendimiento.
+- **Revisar el Desglose por Producto**: La tabla detallada te ofrece una visión clara de cuánto ha generado cada producto en términos de ingresos, cuál fue su costo, y cuál fue su utilidad neta. Útil para la planificación de inventario y ventas.
+
+### 6. Requisitos:
+- **Power BI Desktop**: Para visualizar y personalizar el dashboard.
+- **Fuente de Datos**: El dashboard está diseñado para usar datos de ingresos, costos y gastos con fechas y productos como atributos clave.
+
+### 7. Conclusiones:
+Este dashboard es una herramienta poderosa para optimizar la gestión financiera de productos, brindando una visión completa de los costos, ingresos y utilidades. Los gerentes y analistas de negocio pueden usar esta herramienta para tomar decisiones más informadas, maximizando la rentabilidad y ajustando la estrategia según los datos.
+
