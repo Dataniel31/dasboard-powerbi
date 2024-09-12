@@ -1,4 +1,5 @@
 # Dashboard de Análisis de Ingresos, Costos y Utilidades
+![Captura de pantalla](https://i.ibb.co/DQCQzWt/Captura-de-pantalla-2024-09-11-235157.png)
 
 ## Descripción:
 Este dashboard tiene como objetivo proporcionar una visión clara y detallada de los ingresos, costos y utilidades de una empresa, desglosados por producto y período de tiempo. Es una herramienta útil para analizar el rendimiento financiero de cada producto, identificar tendencias de ingresos y costos, y calcular la utilidad neta. Está diseñado para ayudar a gerentes y analistas a tomar decisiones basadas en datos que optimicen la rentabilidad.
